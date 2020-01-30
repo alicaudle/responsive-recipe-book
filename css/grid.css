@@ -8,7 +8,7 @@
   padding: 0;
   letter-spacing: -.31em;
   text-rendering: optimizeSpeed;
-  display:a -webkit-flex;
+  display: a -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   -webkit-flex-flow: row wrap;
